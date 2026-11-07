@@ -150,10 +150,4 @@ flowchart LR
   tempo de resposta.
 - Montar uma base de testes que exercita o banco de verdade, não só mocks.
 
-## 🖼️ Telas
-
-<!-- Adicione aqui prints com dados fictícios, ex.: ![Painel](./prints/painel.png) -->
-
----
-
 Desenvolvido por **[Vitor Boarreto](https://github.com/Boarreto)**.
